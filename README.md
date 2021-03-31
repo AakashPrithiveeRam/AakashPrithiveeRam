@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AakashPrithiveeRam
-- 👀 I’m interested in Full Stack Development
+- 👀 I’m interested in Full Stack Developer 
 - 🌱 I’m currently learning Reactjs & flutter 
 - 📫 How to reach me @ bsaakashram@gmail.com 
 
